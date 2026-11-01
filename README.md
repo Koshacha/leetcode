@@ -4,29 +4,30 @@
 
 ### List of Topics
 
-1. [JavaScript](#javascript)
-1. [Linked List](#linked-list)
 1. [Trie](#trie)
-1. [Binary Tree](#binary-tree)
-1. [Array](#array)
-1. [Graph](#graph)
 1. [Bit Manipulation](#bit-manipulation)
-1. [String](#string)
+1. [Linked List](#linked-list)
+1. [Binary Tree](#binary-tree)
+1. [Graph](#graph)
+1. [Array](#array)
 1. [Math](#math)
+1. [String](#string)
+1. [JavaScript](#javascript)
 
 ### Solutions
 
-#### JavaScript
-- [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
-- [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
-- [2625. Flatten Deeply Nested Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2625.%20Flatten%20Deeply%20Nested%20Array.md)
-- [2626. Array Reduce Transformation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2626.%20Array%20Reduce%20Transformation.md)
-- [2627. Debounce](https://github.com/koshacha/leetcode/blob/main/JavaScript/2627.%20Debounce.md)
-- [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
-- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
-- [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
-- [2694. Event Emitter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2694.%20Event%20Emitter.md)
-- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
+#### Trie
+- [440. K-th Smallest in Lexicographical Order](https://github.com/koshacha/leetcode/blob/main/Trie/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.md)
+- [2416. Sum of Prefix Scores of Strings](https://github.com/koshacha/leetcode/blob/main/Trie/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.md)
+- [3043. Find the Length of the Longest Common Prefix](https://github.com/koshacha/leetcode/blob/main/Trie/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.md)
+#### Bit Manipulation
+- [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
+- [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
+- [1829. Maximum XOR for Each Query](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1829.%20Maximum%20XOR%20for%20Each%20Query.md)
+- [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
+- [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2275.%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.md)
+- [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
+- [3097. Shortest Subarray With OR at Least K II](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.md)
 #### Linked List
 - [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
@@ -41,10 +42,6 @@
 - [2326. Spiral Matrix IV](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2326.%20Spiral%20Matrix%20IV.md)
 - [2807. Insert Greatest Common Divisors in Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.md)
 - [3217. Delete Nodes From Linked List Present in Array](https://github.com/koshacha/leetcode/blob/main/Linked%20List/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.md)
-#### Trie
-- [440. K-th Smallest in Lexicographical Order](https://github.com/koshacha/leetcode/blob/main/Trie/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.md)
-- [2416. Sum of Prefix Scores of Strings](https://github.com/koshacha/leetcode/blob/main/Trie/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.md)
-- [3043. Find the Length of the Longest Common Prefix](https://github.com/koshacha/leetcode/blob/main/Trie/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.md)
 #### Binary Tree
 - [98. Validate Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
 - [100. Same Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/100.%20Same%20Tree.md)
@@ -64,6 +61,9 @@
 - [951. Flip Equivalent Binary Trees](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/951.%20Flip%20Equivalent%20Binary%20Trees.md)
 - [2583. Kth Largest Sum in a Binary Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.md)
 - [2641. Cousins in Binary Tree II](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/2641.%20Cousins%20in%20Binary%20Tree%20II.md)
+#### Graph
+- [802. Find Eventual Safe States](https://github.com/koshacha/leetcode/blob/main/Graph/802.%20Find%20Eventual%20Safe%20States.md)
+- [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [11. Container With Most Water](https://github.com/koshacha/leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md)
@@ -131,17 +131,12 @@
 - [3151. Special Array I](https://github.com/koshacha/leetcode/blob/main/Array/3151.%20Special%20Array%20I.md)
 - [3254. Find the Power of K-Size Subarrays I](https://github.com/koshacha/leetcode/blob/main/Array/3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I.md)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/koshacha/leetcode/blob/main/Array/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.md)
-#### Graph
-- [802. Find Eventual Safe States](https://github.com/koshacha/leetcode/blob/main/Graph/802.%20Find%20Eventual%20Safe%20States.md)
-- [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
-#### Bit Manipulation
-- [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
-- [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
-- [1829. Maximum XOR for Each Query](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1829.%20Maximum%20XOR%20for%20Each%20Query.md)
-- [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
-- [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2275.%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.md)
-- [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
-- [3097. Shortest Subarray With OR at Least K II](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.md)
+#### Math
+- [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
+- [670. Maximum Swap](https://github.com/koshacha/leetcode/blob/main/Math/670.%20Maximum%20Swap.md)
+- [1726. Tuple with Same Product](https://github.com/koshacha/leetcode/blob/main/Math/1726.%20Tuple%20with%20Same%20Product.md)
+- [1863. Sum of All Subset XOR Totals](https://github.com/koshacha/leetcode/blob/main/Math/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md)
+- [2683. Neighboring Bitwise XOR](https://github.com/koshacha/leetcode/blob/main/Math/2683.%20Neighboring%20Bitwise%20XOR.md)
 #### String
 - [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
@@ -180,10 +175,16 @@
 - [3163. String Compression III](https://github.com/koshacha/leetcode/blob/main/String/3163.%20String%20Compression%20III.md)
 - [3174. Clear Digits](https://github.com/koshacha/leetcode/blob/main/String/3174.%20Clear%20Digits.md)
 - [3223. Minimum Length of String After Operations](https://github.com/koshacha/leetcode/blob/main/String/3223.%20Minimum%20Length%20of%20String%20After%20Operations.md)
-#### Math
-- [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
-- [670. Maximum Swap](https://github.com/koshacha/leetcode/blob/main/Math/670.%20Maximum%20Swap.md)
-- [1726. Tuple with Same Product](https://github.com/koshacha/leetcode/blob/main/Math/1726.%20Tuple%20with%20Same%20Product.md)
-- [2683. Neighboring Bitwise XOR](https://github.com/koshacha/leetcode/blob/main/Math/2683.%20Neighboring%20Bitwise%20XOR.md)
+#### JavaScript
+- [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
+- [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
+- [2625. Flatten Deeply Nested Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2625.%20Flatten%20Deeply%20Nested%20Array.md)
+- [2626. Array Reduce Transformation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2626.%20Array%20Reduce%20Transformation.md)
+- [2627. Debounce](https://github.com/koshacha/leetcode/blob/main/JavaScript/2627.%20Debounce.md)
+- [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
+- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
+- [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
+- [2694. Event Emitter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2694.%20Event%20Emitter.md)
+- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
