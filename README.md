@@ -139,6 +139,7 @@
 - [2028. Find Missing Observations](https://github.com/koshacha/leetcode/blob/main/Array/2028.%20Find%20Missing%20Observations.md)
 - [2044. Count Number of Maximum Bitwise-OR Subsets](https://github.com/koshacha/leetcode/blob/main/Array/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.md)
 - [2070. Most Beautiful Item for Each Query](https://github.com/koshacha/leetcode/blob/main/Array/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query.md)
+- [2091. Removing Minimum and Maximum From Array](https://github.com/koshacha/leetcode/blob/main/Array/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.md)
 - [2239. Find Closest Number to Zero](https://github.com/koshacha/leetcode/blob/main/Array/2239.%20Find%20Closest%20Number%20to%20Zero.md)
 - [2257. Count Unguarded Cells in the Grid](https://github.com/koshacha/leetcode/blob/main/Array/2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid.md)
 - [2270. Number of Ways to Split Array](https://github.com/koshacha/leetcode/blob/main/Array/2270.%20Number%20of%20Ways%20to%20Split%20Array.md)
