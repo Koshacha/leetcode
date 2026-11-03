@@ -190,5 +190,6 @@
 - [1726. Tuple with Same Product](https://github.com/koshacha/leetcode/blob/main/Math/1726.%20Tuple%20with%20Same%20Product.md)
 - [1863. Sum of All Subset XOR Totals](https://github.com/koshacha/leetcode/blob/main/Math/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md)
 - [2683. Neighboring Bitwise XOR](https://github.com/koshacha/leetcode/blob/main/Math/2683.%20Neighboring%20Bitwise%20XOR.md)
+- [3736. Minimum Moves to Equal Array Elements III](https://github.com/koshacha/leetcode/blob/main/Math/3736.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20III.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
